@@ -1,2 +1,5 @@
 # reference-scripts
-Simple script that you can use as a reference for coding.
+Simple scripts that you can use as a reference for coding.
+Enjoy!
+
+**BadBytePunk**
